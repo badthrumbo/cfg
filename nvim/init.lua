@@ -1,0 +1,3 @@
+require("badthrumbo")
+print("hello")
+
